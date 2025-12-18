@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-## 👨‍🏫 Principal Investigator
+## Principal Investigator
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="../assets/img/jaemin.jpg" width="180px" style="border-radius: 10px; margin-right: 20px; border: 1px solid #ddd;">
@@ -20,7 +20,7 @@ nav_order: 3
 </div>
 ---
 
-## 🎓 Post Doctoral Researcher
+## Post Doctoral Researcher
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="../assets/img/mani.jpg" width="180px" style="border-radius: 10px; margin-right: 20px; border: 1px solid #ddd;">
@@ -32,7 +32,7 @@ nav_order: 3
   </div>
 </div>
 
-## 🎓 Ph.D. Candidates
+## Ph.D. Candidates
 
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
   <img src="../assets/img/Taeho.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
@@ -51,17 +51,17 @@ nav_order: 3
 
 ---
 
-## 🧪 Master Candidates
+## Master Candidates
 
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
-  <img src="../assets/img/student2.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
+  <img src="../assets/img/yoon.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
   <b>강윤 (Yoon Kang)</b>
   <br>
   <a href="mailto:kgyoon0206@naver.com">📧 Email</a> kgyoon0206@naver.com
 </div>
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
-  <img src="../assets/img/student2.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
+  <img src="../assets/img/jason.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
   <b>김재성 (Jason Kim)</b>
   <br>
