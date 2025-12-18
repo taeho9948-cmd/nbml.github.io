@@ -6,7 +6,7 @@ subtitle: 동국대학교 나노바이오물질연구실 (Nano-Bio Materials Lab
 profile:
   align: right
   image: jaemin.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
