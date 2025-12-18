@@ -2,96 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: 오제민(Jae-Min Oh)
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 1977.03.15
+    - name: Position
+      value: Professor
+    - name: Department
+      value: 에너지신소재공학과(Dept. of Energy & Materials Engineering)
+    - name: Institution
+      value: Dongguk University
+    - name: Email
+      value: jmoh.nbml@gmail.com jaemin.oh@dongguk.edu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Chemistry
+      institution: Seoul National University, Seoul, Republic of Korea
+      year: 2004
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Novel bio-inorganic nanohybrid for drug delivery and DNA code system (새로운 약물 전달 및 DNA 코드 시스템으로서의 생-무기 나노하이브리드)
+    - title: B.S. in Chemistry
+      institution: Seoul National University, Seoul, Republic of Korea
+      year: 2000
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Professor
+      institution: Department of Energy & Materials Engineering, Dongguk University
+      year: 2019 -
+      
+    - title: Professor
+      institution: Department of Chemistry and Medical Chemistry, Yonsei University
+      year: 2008 - 2019
+
+    - title: Post Doctoral Researcher
+      institution: Department of Nanoscience, Ewha Womans University
+      year: 2007-2008
+
+    - title: Post Doctoral Fellowship
+      institution: Institute European des Membranes, Montpellier, France
+      year: 2004 - 2005
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2004
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - 서울대학교 대학원 BK 화학, 분자공학 연구단 우수논문상
+        - 세계 최초 나노 DNA 바코드 개발 내역 뉴스 보도
+    - year: 2010
       items:
-        - Max Planck Medal
-
+        - 대한화학회 하계 재료분과회 우수포스터상
+    - year: 2012
+      items:
+        - 연세대학교 원주캠퍼스 기초과학분야 우수연구상
+    - year: 2015
+      items:
+        - KCS-Wiley 젊은과학자상   
+    - year: 2016
+      items:
+        - 연세대학교 원주캠퍼스 기초과학분야 우수연구상
+    - year: 2021
+      items:
+        - 대한화학회 젊은재료화학자상    
+        
+- title: Academic Activities
+  type: list
+  contents:
+    - 대한화학회 학술위원회 위원 (2009-2011)
+    - 대한화학회 기획실무이사 (2011)
+    - 대한화학회 올림피아드 위원회 부위원장 (2011)
+    - 대한화학회 키트개발 및 사업위원회 부위원장 (2011)
+    - 대한화학회 재료화학분과회 총무간사 (2018)
+    - 대한화학회 올림피아드 위원회 위원 (2018~)
+    - 동국대학교 산학협력단 기술사업화실장 (2020-2021)
+    - 동국대학교 공과대학 부학장 (2021-2023)
+    - 동국대학교 산학협력단 산학연협업센터장 (2022-2024)
+    
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: 2차원 층상형 소재 (Layered Double Hydroxide, MXene)
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - 2차원 층상형 소재 설계, 합성, 박리화 및 계층구조 개발
+        - 2차원 층상형 소재 표면 개질을 통한 환경/바이오 신소재 개발
+    - title: 나노/바이오 물질
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - 나노-바이오 신소재 디자인 및 합성
+        - 나노물질 안전성 평가를 위한 나노-바이오 상호작용 평가
+        - 기능성 나노물질을 활용한 패키징 소재 개발
