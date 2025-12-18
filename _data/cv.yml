@@ -2,87 +2,83 @@
   type: map
   contents:
     - name: Full Name
-      value: 오제민(Jae-Min Oh)
+      value: 오재민 (Jae-Min Oh)
     - name: Date of Birth
       value: 1977.03.15
     - name: Position
       value: Professor
     - name: Department
-      value: 에너지신소재공학과(Dept. of Energy & Materials Engineering)
+      value: Dept. of Energy & Materials Engineering
     - name: Institution
       value: Dongguk University
     - name: Email
-      value: jmoh.nbml@gmail.com jaemin.oh@dongguk.edu
+      value: jmoh.nbml@gmail.com / jaemin.oh@dongguk.edu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Chemistry
+    - title: Ph.D. in Chemistry
       institution: Seoul National University, Seoul, Republic of Korea
       year: 2004
       description:
-        - Novel bio-inorganic nanohybrid for drug delivery and DNA code system (새로운 약물 전달 및 DNA 코드 시스템으로서의 생-무기 나노하이브리드)
+        - "Novel bio-inorganic nanohybrid for drug delivery and DNA code system (새로운 약물 전달 및 DNA 코드 시스템으로서의 생-무기 나노하이브리드)"
     - title: B.S. in Chemistry
       institution: Seoul National University, Seoul, Republic of Korea
       year: 2000
-      description:
 
 - title: Experience
   type: time_table
   contents:
     - title: Professor
       institution: Department of Energy & Materials Engineering, Dongguk University
-      year: 2019 -
-      
+      year: 2019 - Present
     - title: Professor
       institution: Department of Chemistry and Medical Chemistry, Yonsei University
       year: 2008 - 2019
-
     - title: Post Doctoral Researcher
       institution: Department of Nanoscience, Ewha Womans University
-      year: 2007-2008
-
+      year: 2007 - 2008
     - title: Post Doctoral Fellowship
       institution: Institute European des Membranes, Montpellier, France
       year: 2004 - 2005
-      description:
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2004
-      items:
-        - 서울대학교 대학원 BK 화학, 분자공학 연구단 우수논문상
-        - 세계 최초 나노 DNA 바코드 개발 내역 뉴스 보도
-    - year: 2010
-      items:
-        - 대한화학회 하계 재료분과회 우수포스터상
-    - year: 2012
-      items:
-        - 연세대학교 원주캠퍼스 기초과학분야 우수연구상
-    - year: 2015
-      items:
-        - KCS-Wiley 젊은과학자상   
-    - year: 2016
-      items:
-        - 연세대학교 원주캠퍼스 기초과학분야 우수연구상
-    - year: 2021
-      items:
-        - 대한화학회 젊은재료화학자상    
-        
+    - title: 대한화학회 젊은재료화학자상
+      year: 2021
+      institution: 대한화학회
+    - title: 우수연구상 (기초과학분야)
+      year: 2016
+      institution: 연세대학교 원주캠퍼스
+    - title: KCS-Wiley 젊은과학자상
+      year: 2015
+      institution: 대한화학회
+    - title: 우수연구상 (기초과학분야)
+      year: 2012
+      institution: 연세대학교 원주캠퍼스
+    - title: 우수포스터상 (재료분과회)
+      year: 2010
+      institution: 대한화학회
+    - title: 우수논문상 (BK 화학, 분자공학 연구단)
+      year: 2004
+      institution: 서울대학교 대학원
+      description:
+        - "세계 최초 나노 DNA 바코드 개발 내역 뉴스 보도"
+
 - title: Academic Activities
   type: list
   contents:
-    - 대한화학회 학술위원회 위원 (2009-2011)
-    - 대한화학회 기획실무이사 (2011)
-    - 대한화학회 올림피아드 위원회 부위원장 (2011)
-    - 대한화학회 키트개발 및 사업위원회 부위원장 (2011)
-    - 대한화학회 재료화학분과회 총무간사 (2018)
-    - 대한화학회 올림피아드 위원회 위원 (2018~)
-    - 동국대학교 산학협력단 기술사업화실장 (2020-2021)
-    - 동국대학교 공과대학 부학장 (2021-2023)
     - 동국대학교 산학협력단 산학연협업센터장 (2022-2024)
-    
+    - 동국대학교 공과대학 부학장 (2021-2023)
+    - 동국대학교 산학협력단 기술사업화실장 (2020-2021)
+    - 대한화학회 올림피아드 위원회 위원 (2018~)
+    - 대한화학회 재료화학분과회 총무간사 (2018)
+    - 대한화학회 키트개발 및 사업위원회 부위원장 (2011)
+    - 대한화학회 올림피아드 위원회 부위원장 (2011)
+    - 대한화학회 기획실무이사 (2011)
+    - 대한화학회 학술위원회 위원 (2009-2011)
+
 - title: Academic Interests
   type: nested_list
   contents:
